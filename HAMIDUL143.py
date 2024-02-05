@@ -37,7 +37,7 @@ def main():
             print("\033[92;1mPassword is correct")
             os.system('espeak -a 300 " password is correct "')
             print("Welcome to HAMIDUL KING TOOLS!")
-            os.system('espeak -a 300 "Welcome to HAMIDUL King Tools varson 2.7 ..."')
+            os.system('espeak -a 300 "Welcome to HAMIDUL King Tools varson 2.8 ..."')
             time.sleep(2)
             os.system('clear')
             # Add your script's main logic here
